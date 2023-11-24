@@ -1,9 +1,2 @@
 # Project4-Utilizing-Bioinformatics-to-Predict-Diabetes
--﻿Pregnancies
--Glucose
--Blood Pressure
--SkinThickness
--Insulin
--BMI
--DiabetesPedigreeFunction 
--Age
+In this project we've made an unpublished paper about this model. the model uses 5 machine learning models-Random Forest, Gradient Boosting, XGBoost, Logistic Regression, Ensemble Model (Voting Classifier)-to predict whether a patient has diabetes or not based on these factors-﻿Pregnancies, Glucose, Blood Pressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction, Age. The dataset used in this project is
